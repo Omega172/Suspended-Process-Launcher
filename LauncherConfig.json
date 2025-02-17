@@ -1,0 +1,6 @@
+{
+    "Target": "Target.exe",
+    "DLLs": [
+        "DLL.dll"
+    ]
+}
